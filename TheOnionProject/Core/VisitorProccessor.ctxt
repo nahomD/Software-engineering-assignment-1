@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VisitorProccessor
+comment1.params=
+comment1.target=VisitorProccessor()
+comment2.params=repository
+comment2.target=void\ save(I_VistorRepository)
+numComments=3

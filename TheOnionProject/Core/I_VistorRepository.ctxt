@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=I_VistorRepository
+comment1.params=
+comment1.target=boolean\ save()
+comment2.params=
+comment2.target=Visitor[]\ getVisitors()
+numComments=3

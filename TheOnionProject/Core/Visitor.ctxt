@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Visitor
+comment1.params=firstName\ lastName
+comment1.target=Visitor(java.lang.String,\ java.lang.String)
+comment2.params=firstName
+comment2.target=void\ setFirstName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=lastName
+comment4.target=void\ setLastName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getLastName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
